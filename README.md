@@ -60,10 +60,6 @@ Contributions are welcome! Please open an issue or submit a PR for any:
 - Feature requests
 - Documentation improvements
 
-## License
 
-MIT License
-
----
 
 Made with ❤️ in Turkey
